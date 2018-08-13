@@ -23,10 +23,7 @@ US - Cuba Relations: 1962 - 1962
 		overthrow him; After landing at Bay of Pigs, they encountered 20k Cuba soldiers. Invasion failed
 		disastrously
 	- 1951-1961: Strained relations - Why?
-<<<<<<< HEAD
 
-=======
->>>>>>> a2f91767b1c33ca0e3f96281c840ae2f951416a6
 USSR - Cuban Relationship
 - Multiple assassination/invasion plots led to CMC
 - Why did USSR place nukes on Cuba?
@@ -35,15 +32,11 @@ USSR - Cuban Relationship
 	- Trap USA?
 	- Defend Cuba?
 	- Get upper hand in arms race?
-<<<<<<< HEAD
 
-=======
->>>>>>> a2f91767b1c33ca0e3f96281c840ae2f951416a6
 Key events and Issues of the CMC
 	- 14 Oct '62 US - U-2 spy plane flew over Cuba and captured photographs of missile sites
 	- Nuclear missiles were being built by USSR - some sites were built, others were not operational
 	- US intelligence believed that missiles could be launched in 7 days; 20 soviet ships were on the
-<<<<<<< HEAD
 	way to Cuba
 	- What were JFK's options after the discovery?
 		1. Do nothing
@@ -80,6 +73,3 @@ Consequences of the CMC
 		- Established hotline between USSR and USA
 	2. USA
 		- JFK enhanced reputation
-=======
-	way to Cuba 
->>>>>>> a2f91767b1c33ca0e3f96281c840ae2f951416a6
