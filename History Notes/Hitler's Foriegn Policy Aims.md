@@ -1,56 +1,55 @@
-"Hitler's Foriegn Policy Aims"
-	- Greater Germany
-		¬ Wanted lost German territories
-		¬ Unite with Austria
-		¬ create lebensraum - living space
-	- War on Communism
-		¬ Anti-communist
-		¬ Bolsheviks should be eradicated
-	- Treaty of Versailes
-		¬ Hates the treaty
-		¬ Promised to abolish it
+### Hitler's Foreign Policy Aims
+- Greater Germany
+  -  Wanted lost German territories
+  -  Unite with Austria
+  - create lebensraum - living space
+- War on Communism
+  -  Anti-communist
+  -  Bolsheviks should be eradicated
+- Treaty of Versailles
+  -  Hates the treaty
+  -  Promised to abolish it
 
-Hitler's Expansionist Policy
-	• Step 1:
-		- Germany's armed forces severely limited - Rearmed
-		- Rhineland to be a demilitarised zone - Taken back
-		- Germany forbidden to unite with Austria - Taken back
-		- Sudetenland given to Czechoslovakia - Taken back
-		- Polish Corridor given to Poland - Taken back
-	• Step 2:
-		- After withdrawing from the Geneva Disarmanent Conference, he began secret rearmanent and conscription from 1933-34
-		- When the Allies found out in 1935, France protested but was not willing to impose sanctions/ take further actions without British support. Hitler claimed self-defence
-		- 1935 June - Britain signs the Anglo-German Naval Agreement, allowing Germany to build up to 1/3 of British fleet
-	• Step 3:
-		- France and USSR signed Franco-Soviet Pact in response to German remilitarisation
-			¬ Hitler claimed that the Rhineland was under threat from the new alliance, hence he should be allowed to rearm
-			¬ He took a gamble and sent 22,000 soldiers hoping that Britain or France would not respond
-			¬ The League did nothing but condemn his actions as they were preoccupied with the Abyssinian Crisis
-			¬ Made Hitler much more popular and bolder
-	• Step 4:
-		- Hitler sent soldiers, equipment and aircraft to help in the 1937 Spanish Civil War - helped him test war-readiness
-		- Union with Austria
-			¬ Hitler encouraged Austrain Nazis to stir up trouble and push for union
-			¬ Pressured Austrian Chancellor Schushnigg
-			¬ 99% votes
-	• Step 5:
-		- Hitler wanted to take over Sudetenland
-			¬ Due to the Treaty of Versailes, the population of the Sudetenland was largely ethnic Germans
-			¬ Hitler instigated the Nazi Party in Sudetenland to stir up trouble
-			¬ When the Czech government suppressed the Germans, Hitler threatened invasion to protect German
-			¬ Czechslovokia had a modern army and all its defensive forts were in Sudetenland
-			¬ Sudetenland also had important industrial resources
-			¬ Czech was willing to go to war
-			¬ Czech President was willing to go to war with Germany protected by Franco-Soviet Pact
-			¬ Neville Chamberlain went to Germany on his own accord to meet Hitler in Sept 1938
-				+ First meeting: Agrees on a plesbicite (vote to decide which country to belong to); France and Czechoslovakia reluctant
-				+ Second meeting: Hitler now wants ALL of Sudetenland and ALL germans to return to Germany
-			¬ Italy chairs the Munich Conference on 29 Sept 1938 inviting Britain, France and Germany to a meeting in order to avoid war
-			¬ Sudetenland was conceded to Germany: Britain and Germany "desire" never to go to war
-			¬ Chamberlain became a national hero (Peace with honour... peace in our time)
-			¬ Churchill called the Munich Agreement "a total, unmitigated defeat"
-			¬ Czechoslovakia and USSR were not consulted: Britain informed Czech leaders if they did not accept the Agreement, they would face Germany alone
-			¬ Edvard Benes resigned; German soldiers marched into Sudetenland on 1 October
-			¬ 16 March 1939, Germany invaded the rest of Czechoslovokia
-			¬ Britain and France threatened to go to war with Germany if they invaded Poland
-
+#### Hitler's Expansionist Policy
+- Step 1:
+	- Germany's armed forces severely limited - Rearmed
+	- Rhineland to be a demilitarised zone - Taken back
+	- Germany forbidden to unite with Austria - Taken back
+	- Sudetenland given to Czechoslovakia - Taken back
+	- Polish Corridor given to Poland - Taken back
+- Step 2:
+	- After withdrawing from the Geneva Disarmament Conference, he began secret rearmament and conscription from 1933-34
+	- When the Allies found out in 1935, France protested but was not willing to impose sanctions/ take further actions without British support. Hitler claimed self-defence
+	- 1935 June - Britain signs the Anglo-German Naval Agreement, allowing Germany to build up to 1/3 of British fleet
+- Step 3:
+	- France and USSR signed Franco-Soviet Pact in response to German remilitarisation
+	  - Hitler claimed that the Rhineland was under threat from the new alliance, hence he should be allowed to rearm
+	  -  He took a gamble and sent 22,000 soldiers hoping that Britain or France would not respond
+	  -  The League did nothing but condemn his actions as they were preoccupied with the Abyssinian Crisis
+	  -  Made Hitler much more popular and bolder
+- Step 4:
+	- Hitler sent soldiers, equipment and aircraft to help in the 1937 Spanish Civil War - helped him test war-readiness
+	- Union with Austria
+	  -  Hitler encouraged Austrian Nazis to stir up trouble and push for union
+	  -  Pressured Austrian Chancellor Schuschnigg
+	  -  99% votes
+- Step 5:
+	- Hitler wanted to take over Sudetenland
+	  - Due to the Treaty of Versailles, the population of the Sudetenland was largely ethnic Germans
+	  - Hitler instigated the Nazi Party in Sudetenland to stir up trouble
+	  - When the Czech government suppressed the Germans, Hitler threatened invasion to protect German
+	  - Czechoslovakia had a modern army and all its defensive forts were in Sudetenland
+	  - Sudetenland also had important industrial resources
+	  - Czech was willing to go to war
+	  - Czech President was willing to go to war with Germany protected by Franco-Soviet Pact
+	  - Neville Chamberlain went to Germany on his own accord to meet Hitler in Sept 1938
+		+ First meeting: Agrees on a plebiscite (vote to decide which country to belong to); France and Czechoslovakia reluctant
+		+ Second meeting: Hitler now wants ALL of Sudetenland and ALL Germans to return to Germany
+	  -  Italy chairs the Munich Conference on 29 Sept 1938 inviting Britain, France and Germany to a meeting in order to avoid war
+	  -  Sudetenland was conceded to Germany: Britain and Germany "desire" never to go to war
+	  -  Chamberlain became a national hero (Peace with honour... peace in our time)
+	  - Churchill called the Munich Agreement "a total, unmitigated defeat"
+	  -  Czechoslovakia and USSR were not consulted: Britain informed Czech leaders if they did not accept the Agreement, they would face Germany alone
+	  -  Edvard Benes resigned; German soldiers marched into Sudetenland on 1 October
+	  - 16 March 1939, Germany invaded the rest of Czechoslovakia
+	  -  Britain and France threatened to go to war with Germany if they invaded Poland
