@@ -120,7 +120,7 @@ How far were the following equally important aims of Gorbachev when he came into
     - Greater freedom of speech
     - Many political prisoners freed
     - Western music and ideas allowed
-    - Opened of first ever McDonalds in moscow
+    - Open of first ever McDonalds in Moscow
     - Public political discussions in public permitted
   - Purpose of Perestroika
     - Introduced Capitalist features to improve the economy
